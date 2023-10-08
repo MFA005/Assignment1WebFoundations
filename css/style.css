@@ -1,0 +1,71 @@
+/*Muhammad Furqan Ahmed
+Student Number: 8921348*/
+body{
+    width: 90vw;
+    max-width: 90vw;
+    font: normal normal 0.75em/1.32 Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(60, 255, 0, 0.322);
+    
+}
+.structure{
+    border: 2px dotted darkgreen;
+    border-radius: 20em;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    clear: both;
+
+
+}
+h1,h2{
+    color:  rgb(0, 133, 0);
+    font-variant: small-caps;
+}
+footer p{
+    
+    font-size: 0.8em;
+    color: orangered;
+}
+main{
+    float: left;
+    width: 57vw;
+    padding: 2px;
+    margin: auto;
+}
+aside{
+    float: right;
+    width: 30vw;
+    padding: 2px;
+    margin: auto;
+}
+q{
+    padding: 20px;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.4em;
+}
+.mainimg{
+    border: 3px solid black;
+    align-content: center;
+    text-align: center;
+    
+}
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+ul li{
+    list-style-type: none;
+    line-height: 1.8em;
+}
+ul > li > a{
+    text-decoration: none;
+    color: crimson;
+}
+a:hover{
+    color: darkcyan;
+}
+
